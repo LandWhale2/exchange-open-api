@@ -79,8 +79,8 @@
 
 ## OPEN API 설계시 고려 사항
 
-### API 스펙(EndPoint) 정의
+### 1. API 스펙(EndPoint) 정의
 
-### Public Key, Private Key 암호화 방식
+### 2. Public Key, Private Key 암호화 방식
 
 
