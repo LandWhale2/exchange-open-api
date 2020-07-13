@@ -82,4 +82,4 @@
 
 ### 2. Public Key, Private Key 암호화 방식
 
-
+### 3. API 요청제한
