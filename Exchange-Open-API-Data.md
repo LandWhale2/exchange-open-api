@@ -47,7 +47,7 @@
 
 
 
-## Rate Limits (요청 제한)
+# Rate Limits (요청 제한)
 
 ## bithumb
 
