@@ -76,7 +76,7 @@
 
 
 
-## OPEN API 설계시 고려 사항
+# OPEN API 설계시 고려 사항
 
 ### 1. API 스펙(EndPoint) 정의
 
