@@ -1,5 +1,11 @@
 # 메이져 거래소 OPEN API 제공 데이터
 
+[고팍스](https://gopax.github.io/API/?lang=ko#6796537949)
+
+[빗썸](https://apidocs.bithumb.com/docs/api_info)
+
+[업비트](https://docs.upbit.com/reference)
+
 
 
 ## 공통 제공 Public 데이터
